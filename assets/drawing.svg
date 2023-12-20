@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="15.000118mm"
+   height="20.00033mm"
+   viewBox="0 0 15.000118 20.00033"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="8.1174523"
+     inkscape:cx="10.84084"
+     inkscape:cy="49.830906"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-59.999955,-69.999862)">
+    <path
+       id="rect1"
+       style="fill:#ffd5f6;stroke-width:1.97669;stroke-linecap:round;stroke-linejoin:round"
+       d="m 213.72344,245.63861 c -23.14483,0 -41.77559,18.63845 -41.77559,41.78328 v 252.14824 c 0,23.14482 18.63076,41.78327 41.77559,41.78327 H 332.01987 L 440.10797,479.8661 V 287.42189 c 0,-23.14483 -18.63076,-41.78328 -41.77559,-41.78328 z"
+       transform="matrix(0.05593717,0,0,0.05957536,50.381679,55.365853)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:18.1763;display:inline;fill:#d35fbc;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       x="234.38239"
+       y="309.09818"
+       id="text1"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.1859273,-7.7385874)"><tspan
+         x="234.38239"
+         y="309.09818"
+         id="tspan4"><tspan
+           dx="0 8.8932066"
+           style="font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif'"
+           id="tspan2">CV</tspan></tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#d35fbc;stroke-width:0.522999;stroke-linecap:round;stroke-linejoin:round"
+       id="path2"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="264.52203"
+       sodipodi:cy="299.98465"
+       sodipodi:r1="16.459806"
+       sodipodi:r2="8.2299032"
+       sodipodi:arg1="0.98889121"
+       sodipodi:arg2="1.6172097"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 273.56861,313.73545 -9.42842,-5.52976 -9.9004,4.632 2.34557,-10.67575 -7.46468,-7.98448 10.87806,-1.06821 5.28698,-9.56668 4.37744,10.01556 10.73221,2.07194 -8.17266,7.25817 z"
+       transform="matrix(0.12789892,0,0,0.13248155,37.137735,34.435842)"
+       inkscape:transform-center-x="0.47228294"
+       inkscape:transform-center-y="-0.063533636" />
+    <rect
+       style="fill:#d35fbc;stroke-width:1.97669;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2"
+       width="46.137566"
+       height="2.7139745"
+       x="234.12553"
+       y="321.33456"
+       transform="matrix(0.21674312,0,0,0.26458333,11.254901,-7.019769)"
+       ry="1.3569872" />
+    <rect
+       style="fill:#d35fbc;stroke-width:1.97669;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2-7"
+       width="46.137566"
+       height="2.7139745"
+       x="234.12553"
+       y="321.33456"
+       transform="matrix(0.21674312,0,0,0.26458333,11.254901,-4.019769)"
+       ry="1.3569872" />
+    <rect
+       style="fill:#d35fbc;stroke-width:1.97669;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2-7-6"
+       width="46.137566"
+       height="2.7139745"
+       x="234.12553"
+       y="321.33456"
+       transform="matrix(0.13004587,0,0,0.26458333,31.552941,-1.019769)"
+       ry="1.3569872" />
+    <path
+       id="rect3"
+       style="fill:#d35fbc;stroke-width:1.97777;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 269.30608,318.21096 c -3.16471,0 -5.71316,2.54803 -5.71316,5.71273 v 1.51692 8.74843 5.57261 l 21.63723,-21.55069 h -5.57249 -8.80607 z"
+       transform="matrix(0.2755156,0,0,0.27662191,-3.6240388,-4.0240835)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#d35fbc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="233.36621"
+       y="271.60727"
+       id="text3"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.04625559,3.7136043)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="233.36621"
+         y="271.60727"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:#d35fbc;fill-opacity:1">CV</tspan></text>
+  </g>
+</svg>
